@@ -78,7 +78,7 @@
                                     <a class="dropdown-item" href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="/account/index.php">Profile</a>
+                                    <a class="dropdown-item" href="/account">Profile</a>
                                 </li>
 
                                 <li>

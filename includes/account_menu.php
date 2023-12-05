@@ -8,23 +8,9 @@
     </li>
     <!-- nav item -->
     <li class="nav-item">
-        <a class="nav-link" href="/account/settings.php">
+        <a class="nav-link" href="/account/settings">
             <i class="feather-icon icon-settings me-2"></i>
             Settings
-        </a>
-    </li>
-    <!-- nav item -->
-    <li class="nav-item">
-        <a class="nav-link" href="/account/address.php">
-            <i class="feather-icon icon-map-pin me-2"></i>
-            Address
-        </a>
-    </li>
-    <!-- nav item -->
-    <li class="nav-item">
-        <a class="nav-link" href="/account/payment-method.php">
-            <i class="feather-icon icon-credit-card me-2"></i>
-            Payment Method
         </a>
     </li>
     <!-- nav item -->
