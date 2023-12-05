@@ -21,9 +21,9 @@
                         <!-- breadcrumb -->
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb mb-0">
-                                <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                <li class="breadcrumb-item"><a href="/shop">Shop</a></li>
-                                <li class="breadcrumb-item"><a href="/cart">Cart</a></li>
+                                <li class="breadcrumb-item"><a href="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="shop">Shop</a></li>
+                                <li class="breadcrumb-item"><a href="cart">Cart</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Checkout</li>
                             </ol>
                         </nav>

@@ -51,7 +51,7 @@
                             </div>
                             <div class="card-footer border-0 justify-content-center p-6 pt-0">
                                 Already have an account?
-                                <a href="/signin.php">Sign in</a>
+                                <a href="signin.php">Sign in</a>
                             </div>
                         </div>
                     </div>

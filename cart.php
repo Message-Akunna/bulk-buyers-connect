@@ -21,8 +21,8 @@
                         <!-- breadcrumb -->
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb mb-0">
-                                <li class="breadcrumb-item"><a href="/">Home</a></li>
-                                <li class="breadcrumb-item"><a href="/shop">Shop</a></li>
+                                <li class="breadcrumb-item"><a href="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="shop">Shop</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Shop Cart</li>
                             </ol>
                         </nav>
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                         <div class="d-flex justify-content-between mt-4">
-                            <a href="/shop.php" class="btn btn-primary">Continue Shopping</a>
+                            <a href="shop.php" class="btn btn-primary">Continue Shopping</a>
                             <a href="#!" class="btn btn-outline-primary">Update Cart</a>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                                     </div>
                                     <div class="d-grid mb-1 mt-4">
                                         <!-- btn -->
-                                        <a href="/checkout.php" class="btn btn-primary btn-lg d-flex justify-content-between align-items-center">
+                                        <a href="checkout.php" class="btn btn-primary btn-lg d-flex justify-content-between align-items-center">
                                             Go to Checkout <span class="fw-bold">₦67.00</span></a>
                                     </div>
                                     <!-- text -->

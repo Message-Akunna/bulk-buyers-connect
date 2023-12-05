@@ -14,7 +14,7 @@
                 You’ve got FREE delivery. Start
                 <a href="#!" class="alert-link">checkout now!</a>
             </div>
-            <hr class="mt-2"/>
+            <hr class="mt-2" />
             <ul class="list-group list-group-flush">
                 <?php foreach (range(1, 5) as $key => $value) : ?>
                     <!-- list group item-->
@@ -63,7 +63,7 @@
             <div class="mt-auto pb-6">
                 <div class="d-grid gap-2 mx-auto">
                     <a href="#!" class="btn btn-primary">Checkout</a>
-                    <a href="/cart.php" class="btn btn-outline-primary">Go To Cart</a>
+                    <a href="cart.php" class="btn btn-outline-primary">Go To Cart</a>
                 </div>
             </div>
         </div>

@@ -66,7 +66,7 @@
             <div class="col-md-4 text-center">
                 <span class="small">
                     Copyright © <span id="copyright"><?php echo date("Y") ?></span>
-                    <a href="/"> Bulk Buyers Connect </a> All Right Reserved.
+                    <a href=""> Bulk Buyers Connect </a> All Right Reserved.
                 </span>
             </div>
             <div class="col-md-4">

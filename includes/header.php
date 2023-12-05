@@ -12,11 +12,11 @@
     <div class="container">
         <div class="row w-100 align-items-center gx-lg-2 gx-0">
             <div class="col-xxl-2 col-lg-3 col-md-6 col-5">
-                <a class="navbar-brand d-none d-lg-block" href="/">
+                <a class="navbar-brand d-none d-lg-block" href="">
                     <img width="160" height="auto" src="./assets/images/logos/bulk-buyers-connect-logo.png" alt="Bulk buyers connect" />
                 </a>
                 <div class="d-flex justify-content-between w-100 d-lg-none">
-                    <a class="navbar-brand" href="/">
+                    <a class="navbar-brand" href="">
                         <img width="160" height="auto" src="./assets/images/logos/bulk-buyers-connect-logo.png" alt="Bulk buyers connect" />
                     </a>
                 </div>
@@ -75,23 +75,23 @@
                             </div>
                             <ul class="list-unstyled px-2 py-3">
                                 <li>
-                                    <a class="dropdown-item" href="/">Home</a>
+                                    <a class="dropdown-item" href="">Home</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="/account">Profile</a>
+                                    <a class="dropdown-item" href="account.php">Profile</a>
                                 </li>
 
                                 <li>
-                                    <a class="dropdown-item" href="/account/settings.php">Settings</a>
+                                    <a class="dropdown-item" href="settings.php">Settings</a>
                                 </li>
                             </ul>
                             <div class="border-top px-5 py-3">
-                                <a href="/signin.php">Log Out</a>
+                                <a href="signin.php">Log Out</a>
                             </div>
                         </div>
                     </div>
                     <!-- <div class="list-inline-item me-5 me-lg-0">
-                        <a href="/signin.php" class="text-muted">
+                        <a href="signin.php" class="text-muted">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user">
                                 <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
                                 <circle cx="12" cy="7" r="4"></circle>
@@ -116,7 +116,7 @@
     <div class="container">
         <div class="offcanvas offcanvas-start" tabindex="-1" id="navbar-default" aria-labelledby="navbar-defaultLabel">
             <div class="offcanvas-header pb-1">
-                <a href="/">
+                <a href="">
                     <img width="160" height="auto" src="./assets/images/logos/bulk-buyers-connect-logo.png" alt="Bulk buyers connect" />
                 </a>
                 <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
@@ -221,19 +221,19 @@
                 <div>
                     <ul class="navbar-nav align-items-center">
                         <li class="nav-item w-100 w-lg-auto">
-                            <a class="nav-link" href="/">Home</a>
+                            <a class="nav-link" href="">Home</a>
                         </li>
                         <li class="nav-item w-100 w-lg-auto">
-                            <a class="nav-link" href="/shop.php">Shop</a>
+                            <a class="nav-link" href="shop.php">Shop</a>
                         </li>
                         <li class="nav-item w-100 w-lg-auto">
-                            <a class="nav-link" href="/about-us.php">About Us</a>
+                            <a class="nav-link" href="about-us.php">About Us</a>
                         </li>
                         <li class="nav-item w-100 w-lg-auto">
-                            <a class="nav-link" href="/faq.php">Faq</a>
+                            <a class="nav-link" href="faq.php">Faq</a>
                         </li>
                         <li class="nav-item w-100 w-lg-auto">
-                            <a class="nav-link" href="/contact-us.php">Contact us</a>
+                            <a class="nav-link" href="contact-us.php">Contact us</a>
                         </li>
                     </ul>
                 </div>

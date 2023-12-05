@@ -34,7 +34,7 @@
                                     </div>
                                     <div class="mb-3">
                                         <small class="form-text">
-                                            <a href="/recover-password.php">Forgot Password?</a>
+                                            <a href="recover-password.php">Forgot Password?</a>
                                         </small>
                                     </div>
                                     <div class="d-grid">
@@ -44,7 +44,7 @@
                             </div>
                             <div class="card-footer border-0 justify-content-center p-6 pt-0">
                                 Are you a new user?
-                                <a href="/signup.php">Sign up</a>
+                                <a href="signup.php">Sign up</a>
                             </div>
                         </div>
                     </div>

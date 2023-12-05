@@ -167,7 +167,7 @@
                                     <div class="card card-product">
                                         <div class="card-body">
                                             <div class="text-center position-relative">
-                                                <a class="" href="/shop.php">
+                                                <a class="" href="shop.php">
                                                     <img src="assets/images/products/01.jpeg" alt="Bulk buyers connect" class="rounded-1 mb-3 img-fluid" />
                                                 </a>
                                                 <div class="card-product-action" style="bottom: 75%; left: 20%">
